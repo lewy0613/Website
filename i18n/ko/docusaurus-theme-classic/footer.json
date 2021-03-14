@@ -8,7 +8,7 @@
     "description": "The title of the footer links column with title=Community in the footer"
   },
   "link.title.More": {
-    "message": "더 보기",
+    "message": "그 외",
     "description": "The title of the footer links column with title=More in the footer"
   },
   "link.item.label.MogAmp": {
@@ -40,11 +40,11 @@
     "description": "The label of footer link with label=YouTube linking to https://youtube.com/MoogleTroupe"
   },
   "link.item.label.GitHub": {
-    "message": "GitHub",
+    "message": "깃허브",
     "description": "The label of footer link with label=GitHub linking to https://github.com/MogMusic"
   },
   "link.item.label.Donate": {
-    "message": "기부하기 (StreamElements)",
+    "message": "기부하기",
     "description": "The label of footer link with label=Donate linking to https://streamelements.com/moogletroupe/tip"
   }
 }
